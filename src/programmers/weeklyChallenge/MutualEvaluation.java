@@ -1,6 +1,6 @@
-package programmers.weeklyChallenge.week1;
+package programmers.weeklyChallenge;
 
-/* 상호 평가 */
+/* 2주차: 상호 평가 */
 public class MutualEvaluation {
     public static void main(String[] args) {
         int[][] scores1 = {{100,90,98,88,65},{50,45,99,85,77},{47,88,95,80,67},{61,57,100,80,65},{24,90,94,75,65}};
